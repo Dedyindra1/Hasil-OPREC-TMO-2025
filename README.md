@@ -79,7 +79,7 @@
 
       if (acceptedNames.includes(inputName)) {
         resultDiv.style.color = "green";
-        resultDiv.textContent = "SELAMAT ANDA LOLOS KE TAHAP SELEKSI BERIKUTNYA - Silakan Join Whatsapp Grup berikut : https://chat.whatsapp.com/DwuqSWw2OIRIM9AC8n6smp";
+        resultDiv.textContent = "SELAMAT ANDA LOLOS KE TAHAP SELEKSI BERIKUTNYA - Silakan Join Whatsapp Grup berikut : https://bit.ly/GrupOPRECTMO2025";
       } else {
         resultDiv.style.color = "red";
         resultDiv.textContent = "MOHON MAAF DATA ANDA TIDAK DITEMUKAN DALAM DATA PESERTA LOLOS SELEKSI";
