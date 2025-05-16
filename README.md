@@ -29,7 +29,7 @@
   </style>
 </head>
 <body>
-  <h1>Cek Nama Peserta Lolos Seleksi</h1>
+  <h1>Cek Nama Peserta Lolos Seleksi TMO Tahap 1</h1>
   <input type="text" id="nameInput" placeholder="Masukkan Nama Lengkap">
   <button onclick="checkName()">Cek</button>
   <div id="result"></div>
